@@ -75,7 +75,7 @@
  
   1. Ein Modell, das die Arten technischer Funktionen spezifiziert
  
-  ![Bild des Funktionsbaums der Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Funktionaler%20Baum%20für%20Vorlage.jpg)
+  ![Bild des Funktionsbaums der Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Funktionaler%20Baum%20für%20Vorlage.jpg)
 
 *Sie können diese Vorlage im App-Diagramm verwenden, um den Funktionsbaum Ihres Projekts/Produkts zu definieren.*
  
