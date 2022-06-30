@@ -1,224 +1,225 @@
-# **Specification**
+# **Spezifikation**
 
-*The specification consists in describing the product with a "black box" external view to capture the intermediate technical objects (stakeholders, external interfaces, services, and constraints) that serve to, *in fine*, elucidate the product requirements.*
+*Die Spezifikation besteht darin, das Produkt mit einer "Black Box"-Außensicht zu beschreiben, um die technischen Zwischenobjekte (Stakeholder, externe Schnittstellen, Dienste und Einschränkungen) zu erfassen, die dazu dienen, *im Detail* die Produktanforderungen zu verdeutlichen.*
 
-## **How to document the specifications?** 
+## **Wie werden die Spezifikationen dokumentiert?**
   
-## **1. Stakeholders:**
-<details>
-  <summary>Click to see the guideline!</summary>
+## **1. Stakeholder:**
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
   
-- **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
+- **Definition:** *Stakeholder beziehen sich allgemein auf alle Akteure (menschliche und nichtmenschliche), die ein Interesse an einem Produkt haben. Unter den Stakeholdern gibt es sowohl interne Akteure, wie Nutzer und Teilnehmer des Projekts, als auch externe Akteure, die durch den potenziellen Nutzer von Produkten oder externe Stellen repräsentiert werden.*
 
-- **Comments:**
+- **Kommentare:**
 
-  - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
-  - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
-  - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
+  - *Ein Stakeholder ist nicht unbedingt eine Person (z. B. wenn Flughäfen als Stakeholder betrachtet werden, wenn ein zweistöckiges Flugzeug entworfen wird).*
+  - *Ein Stakeholder kann das Produkt indirekt beeinflussen (z. B. Berücksichtigung der Nachbarschaft bei der Planung eines Kernkraftwerks).*
+  - *Ein Stakeholder kann indirekt von dem Produkt betroffen sein (z. B. Berücksichtigung der lokalen Biodiversität bei der Gestaltung eines Flughafens).*
  </details>
  
-  <details>
-    <summary>Click to see the example!</summary>
+  <Details>
+    <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
   
   ```
-  What does contain the minimum documentation of the stakeholders? 
+  Was beinhaltet die Mindestdokumentation der Stakeholder?
   
-  Example of the ADD-ONS project of XYZ cargo
+  Beispiel des ADD-ONS-Projekts von XYZ Cargo
   
-  - Specify the name of potential stakeholdrs 
-    - Environmental activist
-    - Repairmen
-    - Food producer
-    - Transporter
-    - Health care (street medic, ...)
-    - Makers
-    - Craftmen
-    - Other potential user
+  - Geben Sie den Namen potenzieller Stakeholder an
+    - Umweltaktivist
+    - Handwerker
+    - Lebensmittelproduzent
+    - Transporteur
+    - Gesundheitsversorgung (Strassensanitäter, ...)
+    - Macher
+    - Handwerker
+    - Andere potenzielle Benutzer
   ```
-#### *Project of the [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
-*The image below shows the stakeholders of  ADD-ONS of XYZ cargo as a graph*
+#### *Projekt der [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
+*Das Bild unten zeigt die Stakeholder von ADD-ONS von XYZ Cargo als Grafik*
 
-  ![Image of stakeholder of ADD-ONS of XYZ cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
+  ![Bild des Stakeholders von ADD-ONS von XYZ Cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/ Quellen/Bilder/Stakeholder%20of%20XYZ%20cargo%20ADD-ONS.jpg)
   
-<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">In diagrams.net bearbeiten</a>
 </details>
 
-### Template of stakeholders
+### Vorlage von Stakeholdern
   
-   * Stakeholder name 1
+   * Stakeholder-Name 1
    * ...
 
-  ![Image of template of stakeholder diagram](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
+  ![Bild der Vorlage des Stakeholder-Diagramms](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Stakeholder%20Diagramm%20für%20Vorlage.jpg)
             
-  *The link below can be used to define the stakeholders of your project/product.*
+  *Der folgende Link kann verwendet werden, um die Stakeholder Ihres Projekts/Produkts zu definieren.*
   
-  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
+  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Als neu bearbeiten</a > | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">In diagrams.net bearbeiten</a>
   
-## **2. External interfaces**
-<details>
-  <summary>Click to see the guideline!</summary>
+## **2. Externe Schnittstellen**
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
   
-- **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
+- **Definition:** *Externe Schnittstellen sind Interaktionen zwischen dem Produkt und den Stakeholdern.*
 
-- **Comments:**
-  - *An interface is made of a port (in, out, or in-out)*
-  - *An interface is made of a flow (matter, energy, or signal)*
+- **Kommentare:**
+  - *Eine Schnittstelle besteht aus einem Port (in, out oder in-out)*
+  - *Eine Schnittstelle besteht aus einem Fluss (Materie, Energie oder Signal)*
 </details>
- <details>
-  <summary>Click to see the example!</summary>
+ <Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
    
  ```
-What does contain the minimum documentation of the external interfaces? 
+Was beinhaltet die Mindestdokumentation der externen Schnittstellen?
 
-Example XYZ Cargo ADD-ONS
+Beispiel XYZ Cargo ADD-ONS
 
-  - Identify the interactions between food producer and the product including 
-    - Specify needs
-    - Uses
+  - Identifizieren Sie die Wechselwirkungen zwischen dem Lebensmittelhersteller und dem Produkt, einschließlich
+    - Bedürfnisse angeben
+    - Verwendet
     
-  - Identify the interactions between maker and the product inculding  
-    - repair
-      - unmount 
-    - make
-    - reproduce
-    - modify
+  - Identifizieren Sie die Wechselwirkungen zwischen dem Hersteller und dem enthaltenen Produkt
+    - Reparatur
+      - aushängen
+    - machen
+    - reproduzieren
+    - ändern
   - ...
   ```
 
-*The image below shows the external interfaces of  ADD-ONS of XYZ cargo as a graph*
+*Das Bild unten zeigt die externen Schnittstellen von ADD-ONS von XYZ Cargo als Graph*
 
-![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
+![Bild der externen Schnittstellen von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/ Quellen/Bilder/Externe%20Schnittstellen%20von%20XYZ%20Cargo%20ADD-ONS.jpg)
 
-<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">In diagrams.net bearbeiten</a>
 </details>
 
-### Template of external interfaces
+### Vorlage externer Schnittstellen
    
-   * Stakeholder name 1
-       * Flow 1
+   * Stakeholder-Name 1
+       * Fluss 1
        * ...
  
- ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+ ![Bild des Stakeholder-Diagramms für Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Externe%20Schnittstellen%20für%20Vorlage.jpg)
   
-   *The link below can be used to define the external interfaces of your project/product.*
-  
-  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Edit in diagrams.net</a>
+   *Über den unten stehenden Link können Sie die externen Schnittstellen Ihres Projekts/Produkts definieren.*
+   
+  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces%20for%20template.drawio">In diagrams.net bearbeiten</a>
 
-## 3. Service *(synonyms: external function, capability)* 
-<details>
-  <summary>Click to see the guideline!</summary>
+## 3. Service *(Synonyme: externe Funktion, Fähigkeit)*
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
   
-- **Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
+- **Definition:** *Eine Dienstleistung ist eine von einem Stakeholder beabsichtigte Wirkung, die sich aus der Interaktion des Produkts mit seiner Umgebung ergibt (d. h. wofür das Produkt dient).*
 
-- **Comments:**
-  - *Services provide users with an exchange value that can be included in an economic system (e.g. airlines buy flight hours).*
-  - *Services are intended effects that can be observed from outside the product ("black box" external view), but not from outside an internal component ("white box" internal view).*
-  - *Services are defined in a solution neutral-way.*
-  - *Services can be stated as follows: The [Product] shall enable [Stakeholder] [Action verb] (e.g. The product shall enable end-user to clean its teeth)*
-  - *we often reason in terms of action verbs to communicate expected behaviors, so it would be nice to be able to search designs with action verbs*
+- **Kommentare:**
+  - *Dienste bieten Benutzern einen Tauschwert, der in ein Wirtschaftssystem einbezogen werden kann (z. B. kaufen Fluggesellschaften Flugstunden).*
+  - *Leistungen sind gewollte Wirkungen, die von außerhalb des Produktes („Black Box“ Außenansicht), nicht aber von außerhalb einer internen Komponente („White Box“ Innenansicht) beobachtet werden können.*
+  - *Dienste werden lösungsneutral definiert.*
+  - *Dienstleistungen können wie folgt angegeben werden: Das [Produkt] soll [Stakeholder] [Aktionsverb] ermöglichen (z. B. Das Produkt soll dem Endverbraucher ermöglichen, seine Zähne zu reinigen)*
+  - *Wir argumentieren oft in Bezug auf Aktionsverben, um erwartetes Verhalten zu kommunizieren, daher wäre es schön, Designs mit Aktionsverben suchen zu können*
 </details>
 
-<details>
-  <summary>Click to see the example!</summary>
+
+<Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
   
  ```
-  What does contain the minimum documentation of the service to stakeholders?
+  Was beinhaltet die Mindestdokumentation der Dienstleistung für Stakeholder?
   
-  Example of services for ADD-ONS of XYZ Cargo
+  Beispiel für Dienste für ADD-ONS von XYZ Cargo
   
-    - The ADD-ONS shall enable the food producer to store food
-      - 1.1 solid (10 kilos)
-      - 1.2 liquid (5 litrs)
-    - The ADD-ONS shall enable the food producer to heat food
-      -  2.1solid (150 deg Celcius)
-      - 2.2 liquid (80 deg Celcius)
-    - The ADD-ONS shall enable the food producer to cool down food for 4 hours
-      - 3.1 solid (6 deg Celcius)
-      - 3.2 liquid (6 deg Celcius)
+    - Die ADD-ONS sollen es dem Lebensmittelhersteller ermöglichen, Lebensmittel zu lagern
+      - 1,1 fest (10 Kilo)
+      - 1,2 Flüssigkeit (5 Liter)
+    - Die ADD-ONS sollen es dem Lebensmittelhersteller ermöglichen, Lebensmittel zu erhitzen
+      - 2,1 fest (150 Grad Celsius)
+      - 2,2 Flüssigkeit (80 Grad Celsius)
+    - Die ADD-ONS sollen es dem Lebensmittelhersteller ermöglichen, Lebensmittel für 4 Stunden herunterzukühlen
+      - 3,1 fest (6 Grad Celsius)
+      - 3,2 Flüssigkeit (6 Grad Celsius)
       
     - ...
   ```
  </details>
 
-### Template of services
+### Vorlage für Dienstleistungen
   
-   * Services to stakeholder 1
-       * Service 1.1
+   * Dienstleistungen für Stakeholder 1
+       * Dienst 1.1
        * ...
 
-## 4. Constraint *(Synonyms: non function requirement)*
-<details>
-  <summary>Click to see the guideline!</summary>
+## 4. Einschränkung *(Synonyme: Nichtfunktionsanforderung)*
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
   
-- **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for their intended use.*
+- **Definition:** *Eine Einschränkung ist eine Auswahl, die bestimmte Designs als "nicht zulässig" oder für den vorgesehenen Verwendungszweck ungeeignet macht.*
 
-- **Comments:**
+- **Kommentare:**
 
-  - *The constraint is a restriction, limit, or regulation imposed on a product.*
-  - *There are two kinds of constraints: input constraints and system constraints.* 
-    - *Input constraints are imposed as part of the design specifications.*
-    - *System constraints are constraints imposed by the system in which the design solution must function.*
- </details> 
+  - *Die Beschränkung ist eine Beschränkung, Begrenzung oder Regulierung, die einem Produkt auferlegt wird.*
+  - *Es gibt zwei Arten von Beschränkungen: Eingabebeschränkungen und Systembeschränkungen.*
+    - *Eingabebeschränkungen werden als Teil der Designspezifikationen auferlegt.*
+    - *Systembeschränkungen sind Beschränkungen, die durch das System auferlegt werden, in dem die Designlösung funktionieren muss.*
+ </details>
  
- <details>
-  <summary>Click to see the example!</summary>
+ <Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
   
    ```
-  What does contain the minimum documentation of the constraints?
+  Was beinhaltet die Mindestdokumentation der Auflagen?
   
-  Example XYZ Cargo ADD-ONS, constraints for maker of ADD-ONS
+  Beispiel XYZ Cargo ADD-ONS, Einschränkungen für Hersteller von ADD-ONS
   
-   - User should be able to dismantle ADD-ONS with a maximum one wrench and one screwdriver 
-   - Users should be able to customize the modules of ADD-ONS to fit their use. 
-   - The ADD-ONS should enable the users to do the assembly of components in a short time (10 minutes) and the maker shall select the resistance material for using ADD-ONS in different weather conditions. 
-   - ADD-ONS should be dismantled for recycling purposes.
+   - Der Benutzer sollte in der Lage sein, ADD-ONS mit maximal einem Schraubenschlüssel und einem Schraubendreher zu demontieren
+   - Benutzer sollten in der Lage sein, die Module von ADD-ONS an ihre Verwendung anzupassen.
+   - Die ADD-ONS sollten es den Benutzern ermöglichen, die Montage von Komponenten in kurzer Zeit (10 Minuten) durchzuführen, und der Hersteller muss das Widerstandsmaterial für die Verwendung der ADD-ONS bei verschiedenen Wetterbedingungen auswählen.
+   - ADD-ONS sollten zum Recycling demontiert werden.
    - ...
 
   ```
 </details>
 
-### Template of constraints
+### Vorlage für Beschränkungen
   
-   * Constraint 1
+   * Einschränkung 1
    * ...
      
   
-## **5. Requirement**
+## **5. Erfordernis**
 
-<details>
-  <summary>Click to see the guideline!</summary>
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
   
-- **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
+- **Definition:** *Eine Anforderung ist eine formale Aussage, die angibt, wann Bedingung C wahr ist, Eigenschaft P von Objekt O tatsächlich ist und ihr Wert zu Domäne D gehören soll.*
 
-- **Comments:**
-  -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
-  -  *Functional requirements describe qualitatively the system functions or tasks to be performed in operation.* 
-  -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
+- **Kommentare:**
+  - *Der Mindestsatz an unabhängigen Anforderungen kann die Bedürfnisse des Produkts im funktionalen Bereich vollständig charakterisieren.*
+  - *Funktionale Anforderungen beschreiben qualitativ die im Betrieb zu erfüllenden Systemfunktionen bzw. Aufgaben.*
+  - *Die Anforderung kann wie folgt lauten: Der [Stakeholder] benötigt [Eigentum] [Objekt] [Aktionsverb] bei [Bedingung]*
  </details>
  
- <details>
-  <summary>Click to see the example!</summary>
+ <Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
   
   ```
-  Example of the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
+  Beispiel für die funktionale Anforderung, die ADD-ONS von XYZ Cargo an die Lebensmittelhersteller als Stakeholder stellen, um die Qualität der Lebensmittel zu erhalten.
  
-  In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. 
+  In diesem Beispiel sind wir davon ausgegangen, dass ein Kühlschrank auf den ADD-ONS den Lebensmittelherstellern helfen könnte, Lebensmittel zu kühlen und die Temperatur zu halten.
   
-  So, we defined some  functional requirements (FR) based on this assumption that consist:
+  Also haben wir einige funktionale Anforderungen (FR) basierend auf dieser Annahme definiert, die bestehen aus:
  
-    - FR1: To maintain the quality of food, the food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
-    - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    - FR4: the cooling down system shall control the pressure of exit hot gas 
-    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
+    - FR1: Um die Qualität der Lebensmittel zu erhalten, muss der Lebensmittelhersteller das Material bei einer kalten Temperatur (zwischen 3 °C und 10 °C) für die Kurzzeitkonservierung (3 h) oder die Langzeitkonservierung (24 h) lagern.
+    - FR2: ADD-ONS sollen die interne ADD-ONS-Temperatur auf 7 °C fixieren.
+    - FR3: Um eine kalte Umgebung im Abkühlsystem zu schaffen, müssen die ADD-ONS das Niedertemperatur- und Druckgas komprimieren, um den Kühlzyklus zu starten.
+    - FR4: Das Abkühlsystem soll den Druck des austretenden Heißgases steuern
+    - FR5: Das heiße und unter Druck stehende Abgas muss die kühlere äußere Umgebungstemperatur erreichen, um flüssig zu werden.
     - ...
     
   ```
  </details>
  
- ### Template of requirements
+ ### Vorlage für Anforderungen
     
-   * Requirement 1
+   * Voraussetzung 1
    * ...
  
 
