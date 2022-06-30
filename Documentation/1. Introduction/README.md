@@ -1,159 +1,155 @@
-# Introduction
+# Einführung
 
-*The introduction to the documentation aims to provide more details about the project goal, and context. This introduction should allow the reader to first understand the motivation of the project and also who is involved or has been involved in its creation. As this documentation structure aims at fostering the reuse of the technical contents of the project, it is important to understand well the context.*
+*Die Einführung in die Dokumentation zielt darauf ab, mehr Details über das Projektziel und den Kontext bereitzustellen. Diese Einführung soll es dem Leser ermöglichen, zunächst die Motivation des Projekts zu verstehen und auch, wer an seiner Entstehung beteiligt ist oder war. Da diese Dokumentationsstruktur darauf abzielt, die Wiederverwendung der technischen Inhalte des Projekts zu fördern, ist es wichtig, den Kontext gut zu verstehen.*
 
-<details>
-  <summary>Click to see the guideline and examples!</summary>
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie und Beispiele anzuzeigen!</summary>
   
-## Motivations
+## Motivationen
 
-*This section addresses the question: Why are you starting this project?*
+*Dieser Abschnitt befasst sich mit der Frage: Warum starten Sie dieses Projekt?*
 
 
-As an example:
+Als Beispiel:
   
-The project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is motivated by the high cost 
-of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
+Das Projekt [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) ist durch die hohen Kosten motiviert
+der Materialien, die Studenten im Grundstudium verwenden müssen, um zu lernen, wie man mechatronische Systeme konstruiert.
 
-## Goals
+## Ziele
 
-*This section addresses the question: What will be delivered in this project?* 
+*Dieser Abschnitt befasst sich mit der Frage: Was wird in diesem Projekt geliefert?*
 
-As an example: 
+Als Beispiel:
   
-The project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is an open source robotic arm 
-that everyone should be able to replicate - with or without modification - at home without the need for highly 
-technical knowledge and expensive materials. 
-The robotic arm will support several of the existing training itineraries: 
-mechanical design, automation, industrial programming, etc.
+Das Projekt [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) ist ein Open-Source-Roboterarm
+die jeder in der Lage sein sollte - mit oder ohne Modifikation - zu Hause ohne großen Aufwand nachzubauen
+technisches Wissen und teure Materialien.
+Der Roboterarm wird mehrere der bestehenden Trainingsrouten unterstützen:
+mechanisches Design, Automatisierung, industrielle Programmierung usw.
 
 
-## History
+## Geschichte
 
-*Here it is welcome to acknowledge the existing sources that have been used in this project with locations*
+*Hier können gerne die vorhandenen Quellen, die in diesem Projekt verwendet wurden, mit Ortsangabe genannt werden*
 
-- Initiators of the original project
-- URL of the original project
-- URL of other related projects 
-
-
-## Documentation structure
-
-*How is your documentation organized?*
+- Initiatoren des ursprünglichen Projekts
+- URL des ursprünglichen Projekts
+- URL anderer verwandter Projekte
 
 
-These guidelines will provide you with a standard structure that is mainly following the product 
-life cycle and the technological decomposition. It is implemented in the documentation template available in this project. 
+## Dokumentationsstruktur
+
+*Wie ist Ihre Dokumentation organisiert?*
+
+
+Diese Richtlinien geben Ihnen eine Standardstruktur, die sich hauptsächlich an das Produkt anlehnt
+Lebenszyklus und die technologische Zerlegung. Es ist in der in diesem Projekt verfügbaren Dokumentationsvorlage implementiert.
   
-For example:
-- Introduction
-- Specification
-- Design 
-- Manufacturing
-- Assembly
-- Use
-- Maintenance
-- Disposal
+Zum Beispiel:
+- Einführung
+- Spezifikation
+- Entwurf
+- Herstellung
+- Montage
+- Verwenden
+- Wartung
+- Verfügung
 
-And inside each of the sections, if required:
-- Mechanical
-- Electronic 
-- Software 
+Und in jedem der Abschnitte, falls erforderlich:
+- Mechanisch
+- Elektronisch
+-Software
 
+## Benötigte Fähigkeiten
 
+*Welches spezifische Wissen muss ein Hersteller besitzen, um Ihr Produkt – mit oder ohne Modifikation – wiederzuverwenden??*
 
-## Required skills
-
-*What is the specific knowledge a maker shall own to reuse - with or without modification - your product??*
-
-For example:
+Zum Beispiel:
   
-The project echopen need basic knowledge about the medical ultrasound technology such as ultrasound imaging, 
-a matter of acoustical impedance, etc.  
+Das Projekt echoopen benötigt grundlegende Kenntnisse über die medizinische Ultraschalltechnologie wie Ultraschallbildgebung,
+eine Frage der akustischen Impedanz usw.
 
 
-## Contribution Process
+## Beitragsprozess
 
-*Describe here how a maker can contribute to your project*
+*Beschreiben Sie hier, wie ein Maker zu Ihrem Projekt beitragen kann*
 
--  Example of a contribution process:
-  - Post an [issue] and briefly outline the changes you plan to make
-  - If you are looking for input on what to contribute, browse the issues with the Requests or Bug label
-  - Describe branches
-  - Describe what a Pull Request (PR) shall contain (detailed description of changes, a summary of the test, 
-    issue numbers that the PR resolves)
-  - Specify code style 
-  - Contributor license agreement
-
-
-## Last updates 
-
-*What is the last update of your documentation?*
-
-- Last modification (date, time, object of modification, who,...)
+- Beispiel eines Beitragsprozesses:
+  - Veröffentlichen Sie ein [Problem] und skizzieren Sie kurz die Änderungen, die Sie vornehmen möchten
+  - Wenn Sie nach Anregungen suchen, was Sie beitragen möchten, durchsuchen Sie die Probleme mit den Labels "Requests" oder "Bug".
+  - Zweige beschreiben
+  - Beschreiben Sie, was ein Pull Request (PR) enthalten soll (detaillierte Beschreibung der Änderungen, Zusammenfassung des Tests,
+    Problemnummern, die der PR löst)
+  - Codestil angeben
+  - Contributor-Lizenzvereinbarung
 
 
-## Project team
+## Letzte Updates
 
-*Describe here who is the leader and the main contributors of the project*
+*Was war das letzte Update Ihrer Dokumentation?*
 
-- Name {E-mail}
-  - domain of expertise and role in the project
-  - link to personal web page
+- Letzte Änderung (Datum, Uhrzeit, Gegenstand der Änderung, wer,...)
 
 
-## License
+## Projektteam
 
-*What open-source hardware license your project complies with?*
+*Beschreiben Sie hier, wer der Leiter und die Hauptverantwortlichen des Projekts sind*
+
+- Name {E-Mail}
+  - Fachgebiet und Rolle im Projekt
+  - Link zur persönlichen Webseite
+  
+  
+## Lizenz
+
+*Welche Open-Source-Hardwarelizenz erfüllt Ihr Projekt?*
 
 
-- [Comparison of free and open-source software licences](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
-- [license of open hardware projects](https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their%20hardware%20at%20all.)
+- [Vergleich von kostenlosen und Open-Source-Softwarelizenzen](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
+- [Lizenz offener Hardwareprojekte](https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their% 20Hardware%20at%20all.)
 
 
-## Sponsors and Partners
+## Sponsoren und Partner
 
-Who is sponsoring your project?
+Wer fördert Ihr Projekt?
 
-- URL:
+-URL:
 - Name:
-- E-mail address:
+- E-Mail-Addresse:
 
 
   </details>
   
-### Template of introduction
+### Einführungsvorlage
 
  #### 1. Motivation
    * ...
 
- #### 2. Goal
+ #### 2. Ziel
    * ...
 
- #### 3. History
-   * Initiators of the original project: ...
-   * URL of the original project: ...
-   * URL of other related project: ...
- #### 4. Documentation structure
-   * Section 1: ...
-   * Section 2: ...
-   * Section 3: ...
+ #### 3. Geschichte
+   * Initiatoren des ursprünglichen Projekts: ...
+   * URL des ursprünglichen Projekts: ...
+   * URL eines anderen verwandten Projekts: ...
+ #### 4. Dokumentationsstruktur
+   * Abschnitt 1: ...
+   * Sektion 2: ...
+   * Sektion 3: ...
    * ...
- #### 5. Required skills
+ #### 5. Erforderliche Fähigkeiten
    * ...
- #### 6. Contribution process
+ #### 6. Beitragsprozess
    * ...
- #### 7. Lasgt update
-   * date, time, objet of modification, who, ...
- #### 8. Project team
-   * Name {E-mail}
-       * Domain of expertise and role in the project: ...
-       * link to personal web page: ...
-#### 9. Licence
-   * ... 
-#### 10. Sponsors and partners
-   * URL: ...
+ #### 7. Letzte Aktualisierung
+   * Datum, Uhrzeit, Objekt der Änderung, wer, ...
+ #### 8. Projektteam
+   * Name {E-Mail}
+       * Fachgebiet und Rolle im Projekt: ...
+       * Link zur persönlichen Webseite: ...
+#### 9. Lizenz
+   * ...
+#### 10. Sponsoren und Partner
+   *URL: ...
    * Name: ...
-   * E-mail address: ...
-
-
+   * E-Mail-Addresse: ...
