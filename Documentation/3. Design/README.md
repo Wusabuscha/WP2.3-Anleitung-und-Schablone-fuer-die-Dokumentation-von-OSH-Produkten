@@ -6,7 +6,7 @@
 - **Verhalten (B)** steht für **„was das Objekt tut“.**
 - **Struktur (S)** steht für **„woraus das Objekt besteht“.**
 
-![Bild des FBS des Designs](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS .jpg)
+![Bild des FBS des Designs](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS.jpg)
 
 > *Abbildung 1. Gleiche Funktion, anderes Verhalten, andere Struktur (Rosenman & Gero, 1998)*
 
