@@ -66,7 +66,7 @@
 
 *Die Zerlegung technischer Funktionen erstellt einen Funktionsbaum und die technischen Funktionen werden basierend auf den funktionalen Anforderungen definiert. Beispielhafter Funktionsbaum für den Kühlschrank auf den ADD-ONS für Lebensmittelhersteller, die in der folgenden Abbildung dargestellt sind.*
 
-  ![Bild des Funktionsbaums von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/ Quellen/Bilder/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
+  ![Bild des Funktionsbaums von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Quellen/Bilder/Functional%20tree-%20XYZ%20cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FFunctional%20tree%20of%20XYZ%20cargo%20ADD-ONS.png">In diagrams.net bearbeiten</a>
 </details>
