@@ -141,7 +141,7 @@
 
   1. Ein Modell, das die Beziehungen zwischen technischen Funktionen spezifiziert
  
- ![Bild der Vorlage des Funktionsgraphen](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Funktions%20graph%20for%20template.jpg)
+ ![Bild der Vorlage des Funktionsgraphen](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Funktions%20graph%20for%20template.jpg)
  
  *Sie können den unten stehenden Link verwenden, um das Funktionsdiagramm Ihres Projekts/Produkts zu definieren.*
  
