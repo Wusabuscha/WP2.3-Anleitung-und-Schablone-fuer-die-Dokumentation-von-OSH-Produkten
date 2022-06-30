@@ -1,15 +1,15 @@
-# Design
+# Entwurf
 
-*"To design" refers to the process of originating and developing a plan for a product. So, the product models provide consideration of concepts of product design. Product models serve to answer questions that interest multiple views on the product. Among the product views, there is an agreed-upon ontology of product models named Function-Behaviour-Structure (FBS) where:*
+*„Entwerfen“ bezieht sich auf den Prozess der Erstellung und Entwicklung eines Plans für ein Produkt. Die Produktmodelle berücksichtigen also Konzepte des Produktdesigns. Produktmodelle dienen der Beantwortung von Fragen, die mehrere Blickwinkel auf das Produkt interessieren. Unter den Produktansichten gibt es eine vereinbarte Ontologie von Produktmodellen namens Function-Behaviour-Structure (FBS), wobei:*
 
-- **Function (F)** stands for **“what the object is for”.**
-- **Behaviour (B)** stands for **“what the object does”.**
-- **Structure (S)** stands for **“what the object consists of”.**
+- **Funktion (F)** steht für **„wofür das Objekt steht“.**
+- **Verhalten (B)** steht für **„was das Objekt tut“.**
+- **Struktur (S)** steht für **„woraus das Objekt besteht“.**
 
-![Image of FBS of design ](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS.jpg)
+![Bild des FBS des Designs](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/FBS .jpg)
 
-> *Figure 1. Same function, different behaviour, different structure (Rosenman & Gero, 1998)* 
+> *Abbildung 1. Gleiche Funktion, anderes Verhalten, andere Struktur (Rosenman & Gero, 1998)*
 
 
-*Moreover, it should describe the complexity of the product via:* 
-- **Modular architecture** that describes **“architecture of functions and instructions of the product”.** 
+*Außerdem sollte es die Komplexität des Produkts beschreiben über:*
+- **Modulare Architektur**, die die **„Architektur der Funktionen und Anweisungen des Produkts“ beschreibt.**
