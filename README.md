@@ -21,38 +21,38 @@ Produktlebenszyklusphasen bestehen aus:
 * Wartung
 * Zerlegen/recyceln
 
-## Getting started with your documentation
+## Erste Schritte mit Ihrer Dokumentation
 
-To get started with your documentation, you can [use this template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation)
+Um mit Ihrer Dokumentation zu beginnen, können Sie [diese Vorlage verwenden](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main /Dokumentation)
 
-Then, to reference this guideline, you can follow the guideline and then fill the template in each section in your own Project's readme.
+Um auf diese Richtlinie zu verweisen, können Sie dann der Richtlinie folgen und dann die Vorlage in jedem Abschnitt in der Readme-Datei Ihres eigenen Projekts ausfüllen.
 
-Moreover, you can utilize the link of the App diagram in the template and fill the information of your product in the tables or create your representations as a graph or tree.
+Darüber hinaus können Sie den Link des App-Diagramms in der Vorlage nutzen und die Informationen Ihres Produkts in die Tabellen eintragen oder Ihre Darstellungen als Diagramm oder Baum erstellen.
 
-To use the link of the App diagram in the template, you can follow these steps to create your own project's table, graph or, tree.
+Um den Link des App-Diagramms in der Vorlage zu verwenden, können Sie diesen Schritten folgen, um die Tabelle, das Diagramm oder den Baum Ihres eigenen Projekts zu erstellen.
 
- - At first, use the link "Edit As New" or "Edit in diagrams.net" to go to App diagram.
- - Then, you can modify the text, table, tree, or graph (image below).
+ - Verwenden Sie zunächst den Link "Als neu bearbeiten" oder "In Diagramme.net bearbeiten", um zum App-Diagramm zu gelangen.
+ - Dann können Sie den Text, die Tabelle, den Baum oder das Diagramm ändern (Bild unten).
  
-![image](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
+![Bild](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
 
-- After modifying, you can save the changes. To save the changes on Appdiarams, you can follow this [userguide](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Userguide%20of%20modification%20of%20templates%20in%20Appdiagram%20for%20documetation%20of%20OSH%20design%20reuse.pdf)
-- Finally, it is possible to export the file in different forms ( PNG, JPEG, PDF, HTML, URL,...) and import it in the readme.
+- Nach dem Ändern können Sie die Änderungen speichern. Um die Änderungen auf Appdiarams zu speichern, können Sie dieser [Benutzeranleitung] (https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob /main/Sources/Userguide%20of%20modification%20of%20templates%20in%20App diagram%20for%20documentation%20of%20OSH%20design%20reuse.pdf)
+- Schließlich ist es möglich, die Datei in verschiedenen Formen (PNG, JPEG, PDF, HTML, URL, ...) zu exportieren und in die Readme zu importieren.
 
-![image](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
+![Bild](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
 
-## Project team
+## Projektteam
 
 - Jean-François BOUJUT {Jean-francois.boujut@grenoble-inp.fr}
 - Amer EZOJI {amer.ezoji@grenoble-inp.fr}
 - Romain PINQUIE {romain.pinquie@grenoble-inp.fr}
 
 
-## License
+## Lizenz
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Schild: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
+Dieses Werk ist lizenziert unter a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
@@ -61,12 +61,11 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Sponsors and Partners
+## Sponsoren und Partner
 
 
 
 
-The European research and innovation project [OPEN!NEXT](https://opennext.eu/) is sponsorised by the [EU’s Horizon 2020 program](https://ec.europa.eu/easme/en/section/horizon-2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20tackling%20societal%20challenges.) under the grant N°.869984
+Das europäische Forschungs- und Innovationsprojekt [OPEN!NEXT](https://opennext.eu/) wird durch das [EU-Programm Horizon 2020](https://ec.europa.eu/easme/en/section/horizon- 2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20dressing%20societal%20herausforderungen.) unter der Fördernummer 869984
 
-![Image of European Commission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Image of Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20Next%20logo.png)
-
+![Bild der Europäischen Kommission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European% 20commossion.png). ![Bild von Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open %20Weiter%20logo.png)
