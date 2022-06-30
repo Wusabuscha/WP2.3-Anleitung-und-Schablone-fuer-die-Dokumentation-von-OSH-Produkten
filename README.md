@@ -1,25 +1,25 @@
-## Introduction
+## Einführung
 
-Open source promotes the openness and accessibility of all useful information for studying, modifying, or replicating a piece of software or hardware. As for [industry](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry), the **reuse** of existing designs is, therefore, a fundamental requirement for open source. This project is motivated by the very diverse and contrasted documentation practices observed in web-based [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) projects. Indeed, the lack of standardized open-source hardware documentation guidelines makes the reuse of the solutions very problematic. We are closely working with the promoters of the [DIN SPEC 3105 standard](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) to develop useful documentation guidelines and templates.
+Open Source fördert die Offenheit und Zugänglichkeit aller nützlichen Informationen zum Studieren, Modifizieren oder Replizieren einer Software oder Hardware. Für [Industrie](https://www.researchgate.net/publication/306022370_Achieving_Benefits_with_Design_Reuse_in_Manufacturing_Industry) ist die **Wiederverwendung** bestehender Designs daher eine grundlegende Voraussetzung für Open Source. Dieses Projekt ist motiviert durch die sehr unterschiedlichen und gegensätzlichen Dokumentationspraktiken, die in webbasierten [Open-Source-Hardware](https://en.wikipedia.org/wiki/Open-source_hardware)-Projekten beobachtet werden. Tatsächlich macht das Fehlen standardisierter Open-Source-Hardware-Dokumentationsrichtlinien die Wiederverwendung der Lösungen sehr problematisch. Wir arbeiten eng mit den Befürwortern der [Norm DIN SPEC 3105](https://wiki.opensourceecology.org/wiki/DIN_SPEC_3105) zusammen, um nützliche Dokumentationsrichtlinien und -vorlagen zu entwickeln.
 
-This guideline delivers a template standing as minimum viable documentation for open source hardware. By cloning this repository, you will be able to fill in the template provided in the folder entitled "Documentation". So, you can follow this guideline in the process of developing your project.
+Diese Richtlinie liefert eine Vorlage, die als minimal praktikable Dokumentation für Open-Source-Hardware steht. Indem Sie dieses Repository klonen, können Sie die Vorlage ausfüllen, die im Ordner „Dokumentation“ bereitgestellt wird. Sie können sich also bei der Entwicklung Ihres Projekts an diese Richtlinie halten.
 
-To better understand guidelines development for documentation of OSH design reuse, this [video](https://www.youtube.com/watch?v=87U5FCMh2DU) presents all of the structure of guidelines documentation.
+Um die Entwicklung von Richtlinien für die Dokumentation der Wiederverwendung von Arbeitsschutzkonzepten besser zu verstehen, stellt dieses [Video](https://www.youtube.com/watch?v=87U5FCMh2DU) die gesamte Struktur der Richtliniendokumentation vor.
 
-The documentation structure corresponds to the classical development activities any project logically fulfills. This structure aims to fulfill the requirements for openness and enables the freedom of OSH as stated by the OSHWA association.
+Die Dokumentationsstruktur entspricht den klassischen Entwicklungstätigkeiten, die jedes Projekt logisch erfüllt. Diese Struktur zielt darauf ab, die Anforderungen an Offenheit zu erfüllen und die Freiheit des Arbeitsschutzes zu ermöglichen, wie sie vom OSHWA-Verband angegeben wird.
 
-As defined by the Open Source Hardware Association, open source hardware is hardware whose design is made available in a way assuring anyone can study, modify, distribute, make, and sell the product. One major benefit of open source is to provide designers with the ability to freely reuse solutions in open collaboration across communities.
+Wie von der Open Source Hardware Association definiert, ist Open-Source-Hardware Hardware, deren Design so zur Verfügung gestellt wird, dass sichergestellt ist, dass jeder das Produkt studieren, modifizieren, verteilen, herstellen und verkaufen kann. Ein großer Vorteil von Open Source besteht darin, Designern die Möglichkeit zu geben, Lösungen in offener Zusammenarbeit zwischen Communities frei wiederzuverwenden.
 
-Product life cycle phases consist:
+Produktlebenszyklusphasen bestehen aus:
 
-* Idea generation
-* Need analysis 
-* Concept development
-* Product development and prototyping
-* Produce/replication
-* Use
-* Maintenance
-* Dismantle/recycle
+* Ideengenerierung
+* Bedarfsanalyse
+* Konzeptentwicklung
+* Produktentwicklung und Prototyping
+* Produktion/Replikation
+* Verwenden
+* Wartung
+* Zerlegen/recyceln
 
 ## Getting started with your documentation
 
