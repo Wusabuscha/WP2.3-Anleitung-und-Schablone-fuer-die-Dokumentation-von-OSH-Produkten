@@ -1,89 +1,87 @@
-# **Maintenance**
+# **Wartung**
 
-*I would like to enable makers to understand the process of modifying a system or component after delivery to correct faults, improve performance or other attributes, or adapt to a changing environment.*
+*Ich möchte es Herstellern ermöglichen, den Prozess der Modifikation eines Systems oder einer Komponente nach der Lieferung zu verstehen, um Fehler zu korrigieren, die Leistung oder andere Attribute zu verbessern oder sich an eine sich ändernde Umgebung anzupassen.*
 
-## **How to document the maintenance?** 
+## **Wie dokumentiere ich die Wartung?**
 
-*Maintenance instructions provide the necessary information to maintain the system effectively and perform the required operations to system works properly in the long run. This includes advice on the frequency of the maintenance and the risks of failure.*
+*Wartungsanweisungen liefern die notwendigen Informationen, um das System effektiv zu warten und die erforderlichen Operationen durchzuführen, damit das System langfristig ordnungsgemäß funktioniert. Dazu gehören Ratschläge zur Häufigkeit der Wartung und zu Ausfallrisiken.*
 
- ### **Maintenance instructions** 
-<details>
-  <summary>Click to see the guideline!</summary> 
+ ### **Wartungshinweise**
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
  
-  - **Definition:** *A maintenance instruction is a technical communication document intended to give recommendations and necessary information to maintain the system effectively.*
+  - **Definition:** *Eine Wartungsanweisung ist ein technisches Kommunikationsdokument, das Empfehlungen und notwendige Informationen zur effektiven Wartung des Systems geben soll.*
 
   ```
-What does include the documentation of maintenance instructions? 
+Was beinhaltet die Dokumentation von Wartungsanleitungen?
 
-1. Introduction of general maintenance of the product or system
-    - Cleaning
-    - Lubricating
-    - Regular inspections or services. These can be carried out on a time-based schedule or a usage-based schedule.
-       - Maintenance according to predetermined intervals 
-       - Maintenance according to prescribed criteria
-       - Maintenance by integrating analysis, measurement, and periodic test activities 
-    - Regular adjusting machinery if it's necessary
-    - Maintenance tools
-       - Various tools necessary to perform the maintenance operation
-2. Identifying the defective components
-    - The equipment performance monitoring   
-    - How to detect a defective component
-    - Fault elimination
-    - Verification of fault elimination
-3. Repairing the defective components
-    - Step-by-step procedures describing the repairing sequence 
-    - Refer to the manufacturing section where you can find the manufacturing instructions to rebuild the defective components
-    - Verification of repair
-    - Required tools for repairing
-4. Replacing equipment components according to the schedule
-    - Step-by-step procedures describing the replacing sequence
-    - Required tools for replacing the components
+1. Einführung der allgemeinen Wartung des Produkts oder Systems
+    - Reinigung
+    - Schmieren
+    - Regelmäßige Inspektionen oder Wartungen. Diese können zeitbasiert oder nutzungsbasiert ausgeführt werden.
+       - Wartung nach vorgegebenen Intervallen
+       - Wartung nach vorgeschriebenen Kriterien
+       - Wartung durch Integration von Analyse-, Mess- und regelmäßigen Testaktivitäten
+    - Regelmäßige Anpassung der Maschinen, falls erforderlich
+    - Wartungswerkzeuge
+       - Verschiedene Werkzeuge, die zur Durchführung der Wartungsarbeiten erforderlich sind
+2. Identifizieren der defekten Komponenten
+    - Überwachung der Geräteleistung
+    - So erkennen Sie eine defekte Komponente
+    - Störungsbeseitigung
+    - Nachweis der Fehlerbeseitigung
+3. Reparatur der defekten Komponenten
+    - Schritt-für-Schritt-Verfahren, die den Reparaturablauf beschreiben
+    - Sehen Sie im Abschnitt Herstellung nach, wo Sie die Herstellungsanweisungen zum Wiederaufbau der defekten Komponenten finden
+    - Überprüfung der Reparatur
+    - Erforderliche Werkzeuge für die Reparatur
+4. Austausch von Ausrüstungskomponenten nach Plan
+    - Schritt-für-Schritt-Verfahren, die die Ersetzungssequenz beschreiben
+    - Benötigtes Werkzeug zum Austausch der Komponenten
 
-How to visualize the process of maintenance?
- 1. Images 
- 2. Videos 
+Wie visualisiert man den Wartungsprozess?
+ 1. Bilder
+ 2. Videos
 
 ```
 </details>
 
-<details>
-  <summary>Click to see the example!</summary>
+<Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
 
-#### *Example 1:* [FarmBot Genesis V1.5](https://genesis.farm.bot/v1.5/Extras/maintenance)
+#### *Beispiel 1:* [FarmBot Genesis V1.5](https://genesis.farm.bot/v1.5/Extras/maintenance)
 </details>
 
-### Template of maintenance
+### Wartungsvorlage
  
- #### 1. General maintenance of the product or system
+ #### 1. Allgemeine Wartung des Produkts oder Systems
  
-   *You can use this template on the App diagram to explain the general maintenance.*
+   *Sie können diese Vorlage im App-Diagramm verwenden, um die allgemeine Wartung zu erklären.*
  
-![image of general maintenance](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General%20maintenance%201.jpg)
+![Bild der allgemeinen Wartung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General% 20Wartung%201.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.png">Edit in diagrams.net</a> 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.png">In diagrams.net bearbeiten</a>
  
- #### 2. Identifying the defective components 
+ #### 2. Identifizieren der defekten Komponenten
  
- *You can use this template on the App diagram to identify the defective components.*
+ *Sie können diese Vorlage im App-Diagramm verwenden, um die defekten Komponenten zu identifizieren.*
  
-![image of defective components](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Identifying%20the%20defective%20components.jpg)
+![Bild defekter Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Identifying% 20die%20defekten%20Komponenten.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.png">In diagrams.net bearbeiten</a>
  
- #### 3. Repairing the defective components
+ #### 3. Reparatur der defekten Komponenten
 
-  *You can use this template on the App diagram to describe the repairing process of defective components.*
+ *Sie können diese Vorlage im App-Diagramm verwenden, um den Reparaturprozess defekter Komponenten zu beschreiben.*
  
-![image of repariring the defective components](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Repairing%20the%20defective%20components%201.jpg)
+![Bild der Reparatur der defekten Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Reparieren%20der%20defekten%20Komponenten%201.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio.png">In diagrams.net bearbeiten</a>
  
- #### 4. Replacing equipment components on a schedule
+ #### 4. Planmäßiger Austausch von Ausrüstungskomponenten
 
-  *You can use this template on the App diagram to describe the replacing procedure of components.*
+  *Sie können diese Vorlage im App-Diagramm verwenden, um das Austauschverfahren von Komponenten zu beschreiben.*
  
-![image of replacing components](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing%20the%20parts%20or%20components.jpg)
+![Bild des Austauschs von Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing% 20die%20Teile%20oder%20Komponenten.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplacing%20the%20parts%20or%20components.drawio.png">Edit in diagrams.net</a>
-
-
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplaceing%20the%20parts%20or%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplaceing%20the%20parts%20or%20components.drawio.png">In diagrams.net bearbeiten</a>
