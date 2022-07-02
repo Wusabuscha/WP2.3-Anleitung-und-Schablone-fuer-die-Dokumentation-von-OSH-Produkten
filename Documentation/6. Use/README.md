@@ -1,104 +1,102 @@
-# **Use**
+# **Verwenden**
 
-*I would like to provide important information to end-users on 'how to use my product'.*
+*Ich möchte Endbenutzern wichtige Informationen zur Verwendung meines Produkts geben.*
 
-## **How to document the user guide?**
+## **Wie dokumentiere ich das Benutzerhandbuch?**
 
-*The user guide can help the maker to understand how to use a product.* 
+*Das Benutzerhandbuch kann dem Hersteller helfen, die Verwendung eines Produkts zu verstehen.*
 
-### **User guide** 
-<details>
-  <summary>Click to see the guideline!</summary>
+### **Benutzerhandbuch**
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
  
- - **Definition:** *The user guide consists of information that allows end-users to operate the product properly, it helps non-technical people pinpoint and solve simple problems without expert assistance.*
+ - **Definition:** *Das Benutzerhandbuch besteht aus Informationen, die es Endbenutzern ermöglichen, das Produkt ordnungsgemäß zu bedienen, und es hilft technisch nicht versierten Personen, einfache Probleme ohne Expertenunterstützung zu lokalisieren und zu lösen.*
 
   ```
-What should include the documentation of the user guide? 
+Was sollte die Dokumentation des Benutzerhandbuchs beinhalten?
 
-1. Description of the device of the product including:
-   - Device name and its definition 
-   - Teach the essentials and technical specifications 
-2. Use of the product and its device consist of 
-   - Materials required
+1. Beschreibung des Geräts des Produkts, einschließlich:
+   - Gerätename und seine Definition
+   - Vermittlung der Grundlagen und technischen Spezifikationen
+2. Die Nutzung des Produkts und seines Geräts besteht aus
+   - Benötigte Materialien
       - App
-      - Software
-      - Firmware
-   - Procedure
-      - Installation instructions including  
-         - Firmware installation 
-         - Software installation
-         - App installation
-      - Setup instructions containing 
-         - Software setup
-         - Firmware setup
-         - App setup
-      - Explains how to update the firmware to the latest version
-3. Troubleshooting section  
-   - Instructions on how to solve problems
-   - Reporting problems and issues on the forums and chat
-   - Feedback of users
-4. Environmental management
-   - Protection against hot or cold weather conditions
-   - Determining the acceptable temperature range
-5. Repair information (refer to maintenance)
+      -Software
+      -Firmware
+   - Verfahren
+      - Einbauanleitung inkl
+         - Firmware-Installation
+         - Software Installation
+         - App-Installation
+      - Setup-Anweisungen enthalten
+         - Software-Setup
+         - Firmware-Setup
+         - App-Setup
+      - Erläutert, wie die Firmware auf die neueste Version aktualisiert wird
+3. Abschnitt Fehlerbehebung
+   - Anweisungen zur Lösung von Problemen
+   - Melden von Problemen und Problemen in den Foren und im Chat
+   - Feedback von Benutzern
+4. Umweltmanagement
+   - Schutz vor heißen oder kalten Wetterbedingungen
+   - Bestimmung des akzeptablen Temperaturbereichs
+5. Reparaturinformationen (siehe Wartung)
 
-How to visualize the process of the user guide?
-1. Images 
-2. Videos 
+Wie kann der Prozess der Benutzerführung visualisiert werden?
+1. Bilder
+2. Videos
   ```
  </details>
  
- <details> 
-  <summary>Click to see the example!</summary>
+ <Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen!</summary>
  
- *Some examples of open-source projects that show the user guide.*
+ *Einige Beispiele von Open-Source-Projekten, die das Benutzerhandbuch zeigen.*
   
- #### *Example 1:* [PSLab oscilloscope](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root) 
+ #### *Beispiel 1:* [PSLab-Oszilloskop](https://docs.pslab.io/tutorials/oscilloscope.html#tutorials-oscilloscope--page-root)
   
- #### *Example 2:* [PX4 vision userguide](https://docs.px4.io/master/en/#how-do-i-get-started)
+ #### *Beispiel 2:* [Benutzerhandbuch für PX4 Vision](https://docs.px4.io/master/en/#how-do-i-get-started)
  
- #### *Example 3:* [Echopen project](https://echopen.gitbooks.io/echopen_prototyping/content/introduction/new_introduction.html) 
+ #### *Beispiel 3:* [Echopen-Projekt](https://echopen.gitbooks.io/echopen_prototyping/content/introduction/new_introduction.html)
  
- #### *Example 4:* [Poppy project ]( https://docs.poppy-project.org/en/)
+ #### *Beispiel 4:* [Poppy-Projekt ]( https://docs.poppy-project.org/en/)
  
- #### *Example 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
+ #### *Beispiel 5:* [FarmBot Genesis V1.5 ]( https://genesis.farm.bot/v1.5/Extras/troubleshooting)
 </details>
 
-### Template of use
+### Nutzungsvorlage
 
-  #### 1. Description of the device of the product
+  #### 1. Gerätebeschreibung des Produkts
  
-   *You can use this template on the App diagram to describe the device of the product.*
+   *Sie können diese Vorlage im App-Diagramm verwenden, um das Gerät des Produkts zu beschreiben.*
  
-![image of use of device](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20the%20product%20and%20device.jpg)
+![Bild der Verwendung des Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use %20das%20Produkt%20und%20Gerät.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FUse%20the%20product%20and%20device.png">Edit in diagrams.net</a> 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fuse%20the%20product%20and%20device.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fuse%20the%20product%20and%20device.png">In diagrams.net bearbeiten</a>
      
- #### 2. Use of product and its device
+ #### 2. Verwendung des Produkts und seines Geräts
  
-  *You can use this template on the App diagram to explain the use of the product.*
+  *Sie können diese Vorlage auf dem App-Diagramm verwenden, um die Verwendung des Produkts zu erklären.*
  
-![image of use of product and its device](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Description%20of%20the%20device%20of%20the%20product.jpg)
+![Bild der Verwendung des Produkts und seines Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/ Bilder/Beschreibung%20of%20the%20device%20of%20the%20product.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">Edit in diagrams.net</a> 
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">In diagrams.net bearbeiten</a>
 
-#### 3. Troubleshooting
+#### 3. Fehlerbehebung
 
-  *You can use this template on the App diagram to explain the troubleshooting.*
+  *Sie können diese Vorlage im App-Diagramm verwenden, um die Fehlerbehebung zu erläutern.*
  
-![image of troubleshooting](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg)
+![Bild der Fehlerbehebung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Troubleshooting.jpg )
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTroubleshooting.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Ftroubleshooting.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FTroubleshooting.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Ftroubleshooting.png">In diagrams.net bearbeiten</a>
  
-#### 4. Environmental management
+#### 4. Umweltmanagement
 
- *You can use this template on the App diagram to explain the environmental management of the product.*
+ *Sie können diese Vorlage im App-Diagramm verwenden, um das Umweltmanagement des Produkts zu erläutern.*
  
-![image of environmental management](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental%20management.png)
+![Bild des Umweltmanagements](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental% 20management.png)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">In diagrams.net bearbeiten</a>
  
-#### 5. Repair information (refer to [maintenance](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/7.%20Maintenance))
+#### 5. Reparaturinformationen (siehe [maintenance](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main /Dokumentation/7.%20Wartung))
  * ...
-
-
