@@ -1,238 +1,234 @@
-# **Manufacturing**
+# **Herstellung**
 
-*I would like to enable makers to understand the process by which raw materials transform into a final product.*
+*Ich möchte Herstellern ermöglichen, den Prozess zu verstehen, durch den sich Rohstoffe in ein Endprodukt verwandeln.*
 
-## **How to document a manufacturing process?**
+## **Wie dokumentiere ich einen Herstellungsprozess?**
 
-*Manufacturing instructions can guide the makers to follow a process for replicating a product. Manufacturing instructions mean full description and instructions concerning raw material, operating conditions, and process to be employed for the manufacture and assembly of the product.
-The bill of material (BOM) is the document that describes all the components and their references. If the component is to be purchased one should find all the information required to buy the part. If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
+*Herstellungsanweisungen können die Hersteller anleiten, einem Prozess zur Replikation eines Produkts zu folgen. Herstellungsanweisungen sind vollständige Beschreibungen und Anweisungen in Bezug auf Rohstoffe, Betriebsbedingungen und Verfahren, die für die Herstellung und Montage des Produkts verwendet werden sollen.
+Die Stückliste (BOM) ist das Dokument, das alle Komponenten und ihre Referenzen beschreibt. Wenn die Komponente gekauft werden soll, sollte man alle Informationen finden, die zum Kauf des Teils erforderlich sind. Wenn das Teil hergestellt werden soll, sollten Sie alle Beschreibungen der Herstellungsanweisungen wie unten beschrieben finden.*
 
-## **How to document a manufacturing process part?**
+## **Wie dokumentiere ich ein Teil des Fertigungsprozesses?**
 
-*If the part is to be manufactured one should find all the descriptions of the manufacturing instructions as described below.* 
+*Wenn das Teil hergestellt werden soll, sollten Sie alle Beschreibungen der Herstellungsanweisungen wie unten beschrieben finden.*
 
-### *1. Bill of material (BOM)*
-<details>
-  <summary>Click to see the guideline</summary>
+### *1. Stückliste (BOM)*
+<Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen</summary>
  
- - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+ - **Definition:** *Eine Stückliste (BOM) ist eine umfassende Liste von Teilen, Artikeln und anderen Materialien, die zur Herstellung eines Produkts erforderlich sind, sowie Anweisungen, die zum Sammeln und Verwenden der erforderlichen Materialien erforderlich sind.*
 
 ```
-What should include the bill of material (not limited to...)?
+Was sollte die Stückliste enthalten (nicht beschränkt auf ...)?
 
-   1. Part number
-   2. Item name
-   3. Manufacturer part number
-   4. Digi-Key part number
-   5. Description
-   6. Manufactured part (link to manufacturing instruction)
-   7. Purchased part (link to seller website)
-   8. Quantity
-   9. Price
-   10. Manufacturing standard lead time
-   11. Packaging
-   12. BOM notes
+   1. Teilenummer
+   2. Artikelname
+   3. Teilenummer des Herstellers
+   4. Digi-Key-Teilenummer
+   5. Beschreibung
+   6. Hergestelltes Teil (Link zur Herstellungsanweisung)
+   7. Kaufteil (Link zur Verkäuferseite)
+   8. Menge
+   9. Preis
+   10. Standardlieferzeit für die Herstellung
+   11. Verpackung
+   12. Anmerkungen zur Stückliste
    13. ...
    ```
 </details>
-
-<details>
-  <summary>Click to see the example</summary>
+<Details>
+  <summary>Klicken Sie hier, um das Beispiel zu sehen</summary>
  
- #### *Example 1: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
+ #### *Beispiel 1: [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/bill_of_materials)*
   
-![image](https://user-images.githubusercontent.com/59058909/126754681-8afeaaa9-619e-49c5-94ca-962bd0d225c3.png)
+![Bild](https://user-images.githubusercontent.com/59058909/126754681-8afeaaa9-619e-49c5-94ca-962bd0d225c3.png)
 
-*BOM of JPL open-source Rover*
+*BOM von JPL Open-Source-Rover*
   
- #### *Example 2: [SatNOGS Rotator v3](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods)*
+ #### *Beispiel 2: [SatNOGS Rotator v3](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods)*
   
- #### *Example 3: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)*
+ #### *Beispiel 3: [Krab v1.0](https://projects.fablabs.io/@avishek/krab-v10)*
 
 </details>
 
-### BOM Template
+### Stücklistenvorlage
 
- #### Bill of material
+ #### Stückliste
  
- *You can use this template on the App diagram to define the bill of material of your project/product.*
+ *Sie können diese Vorlage im App-Diagramm verwenden, um die Stückliste Ihres Projekts/Produkts zu definieren.*
 
-![image of BOM](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template-2.jpg)
+![Bild der Stückliste](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template -2.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">In diagrams.net bearbeiten</a>
  
-  ### *2. Manufacturing instructions should include:*
+  ### *2. Die Herstellungsanweisungen sollten enthalten:*
  
- #### *2.1. Manufacturing tools*
-  <details>
-  <summary>Click to see the guideline!</summary>
+ #### *2.1. Fertigungswerkzeuge*
+  <Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
  
-  - **Definition:** *It means all the machinery, equipment, and processes used to manufacture products. Manufacturing technology guide to find the type of necessary technology to produce the part. In that case, it should describe the most suitable technology according to the context.*
+  - **Definition:** *Damit sind alle Maschinen, Geräte und Prozesse gemeint, die zur Herstellung von Produkten verwendet werden. Leitfaden zur Herstellungstechnologie, um die Art der erforderlichen Technologie zur Herstellung des Teils zu finden. In diesem Fall sollte es je nach Kontext die am besten geeignete Technologie beschreiben.*
 
  ```
- What should include the documentation of manufacturing tools?
+ Was sollte die Dokumentation von Fertigungswerkzeugen beinhalten?
  
- Type of machines used 
+ Art der verwendeten Maschinen
 
-   1. CNC machine tools for machining metal or other rigid materials
-     - Milling 
-     - Lathe
-     - Cutting 
-     - Drilling 
+   1. CNC-Werkzeugmaschinen zur Bearbeitung von Metall oder anderen starren Materialien
+     - Mahlen
+     - Drehbank
+     - Schneiden
+     - Bohren
      - Etc.
-    
-   2. Other common manufacturing tools
-     - 3D printing (FDM, SLS...) 
-     - Thermoforming
-     - Burning machining technology (laser cutting, Plasma cutting, ...) 
-     - Bonding technologies (Solder, cold welding, arc welding, adhesive bonding ...)  
+     
+   2. Andere gängige Fertigungswerkzeuge
+     - 3D-Druck (FDM, SLS...)
+     - Thermoformen
+     - Brennende Bearbeitungstechnik (Laserschneiden, Plasmaschneiden, ...)
+     - Verbindungstechnologien (Löten, Kaltschweißen, Lichtbogenschweißen, Kleben ...)
   
-   3. Finishing: to achieve the right properties such as surface quality, geometrical accuracy, and mechanical properties, finishing is essential. 
-     - Sanding after 3D printing
-     - Gap filling
-     - Blasting
-     - Polishing
-     - Priming and painting
+   3. Endbearbeitung: Um die richtigen Eigenschaften wie Oberflächenqualität, Formgenauigkeit und mechanische Eigenschaften zu erreichen, ist die Endbearbeitung unerlässlich.
+     - Schleifen nach dem 3D-Druck
+     - Eine Lücke stopfen
+     - Sprengen
+     - Polieren
+     - Grundierung und Lackierung
      - Etc.
   
- How to visualize the manufacturing tools? 
-  1. Images 
-  2. Videos  
+ Wie visualisiert man die Fertigungswerkzeuge?
+  1. Bilder
+  2. Videos
  ```
  </details>
  
-  <details>
-  <summary>Click to see the examples!</summary>
+  <Details>
+  <summary>Klicken Sie hier, um die Beispiele zu sehen!</summary>
  
-   #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
+   #### *Beispiel 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
    
-   #### *Example 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence) 
+   #### *Beispiel 2:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence)
   </details>
  
-   #### Template of Manufacturing tools
+   #### Vorlage für Fertigungswerkzeuge
    
-*You can use this template on the App diagram to define manufacturing tools.*
+*Sie können diese Vorlage im App-Diagramm verwenden, um Fertigungswerkzeuge zu definieren.*
  
-![image of Manufacturing tools](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20tools.jpg)
+![Bild der Fertigungswerkzeuge](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing% 20Werkzeuge.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.png">Edit in diagrams.net</a>
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.png">In diagrams.net bearbeiten</a>
 
- #### *2.2. Manufacturing sequences and instructions*
- <details>
-  <summary>Click to see the guideline!</summary>
+ #### *2.2. Fertigungsabläufe und Anweisungen*
+ <Details>
+  <summary>Klicken Sie hier, um die Richtlinie anzuzeigen!</summary>
  
-  - **Definition:** *Manufacturing sequences refer to step-by-step machining and manufacturing processes in a target-oriented arrangement to enable manufacturing.*
+  - **Definition:** *Fertigungsabläufe bezeichnen schrittweise Bearbeitungs- und Fertigungsprozesse in zielgerichteter Anordnung, um eine Fertigung zu ermöglichen.*
   
-  - **Comments:**
+  - **Kommentare:**
   
-      * The machining sequence should define for the manufacturing of each part.
-      * Process parameters are all those parameters that are inherent to any machining operation and should have a suitable finite value to smooth and efficient removal of materials.
-      * Manufacturing standard file formats support some of the manufacturing processes and the surface geometry of a design without the possibility of modification.
+      * Die Bearbeitungsreihenfolge sollte für die Herstellung jedes Teils festgelegt werden.
+      * Prozessparameter sind all jene Parameter, die jedem Bearbeitungsvorgang inhärent sind und einen geeigneten endlichen Wert haben sollten, um einen reibungslosen und effizienten Materialabtrag zu ermöglichen.
+      * Herstellungsstandard-Dateiformate unterstützen einige der Herstellungsprozesse und die Oberflächengeometrie eines Designs ohne die Möglichkeit der Änderung.
 
 ```
-What does include the documentation of manufacturing sequences and instructions?
+Was beinhaltet die Dokumentation von Fertigungsabläufen und Anweisungen?
  
-  1. Name of the related machine of each step
-  2. Describing step by step sequence of the machining process
-    - Machine
-    - Type of operation
-    - Tools description 
-    - Process parameters of each machining operation ( refer to the template of manufacturing sequences below)
-       - Process parameters of 3D printing
-       - Process parameters of Laser cutting
-       - Process parameters of CNC machines such as Lathe, Milling, etc.
-       - Process parameters of arc welding
-    - Raw material
-    - Manufacturing files (STL, SVG or G-code, ...)
-       - CAD files in an interchange format such as STL that is suitable for 3D printing 
-       - Nominal geometry and its allowable variation by using symbolic language on 2D drawings like SVG, JPEG, and PDF format that is suitable for laser cutting
-       - Manufacturing export formats such as G-code, STEP-NC is suitable for CNC machining
-       - Circuit board design formats such as Gerber RS-274X, excellon that is suitable for vector photoplotters 2D mechanical NC machines
-  ``` 
+  1. Name der zugehörigen Maschine für jeden Schritt
+  2. Beschreibung der schrittweisen Abfolge des Bearbeitungsprozesses
+    - Maschine
+    - Art der Operation
+    - Werkzeugbeschreibung
+    - Prozessparameter jedes Bearbeitungsvorgangs (siehe Vorlage für Fertigungsabläufe unten)
+       - Prozessparameter des 3D-Drucks
+       - Prozessparameter des Laserschneidens
+       - Prozessparameter von CNC-Maschinen wie Drehmaschine, Fräsmaschine etc.
+       - Prozessparameter des Lichtbogenschweißens
+    - Rohstoffe
+    - Fertigungsdateien (STL, SVG oder G-Code, ...)
+       - CAD-Dateien in einem für den 3D-Druck geeigneten Austauschformat wie STL
+       - Nenngeometrie und ihre zulässige Variation durch Verwendung von Symbolsprache in 2D-Zeichnungen wie SVG-, JPEG- und PDF-Format, das zum Laserschneiden geeignet ist
+       - Fertigungsexportformate wie G-Code, STEP-NC sind für die CNC-Bearbeitung geeignet
+       - Leiterplatten-Designformate wie Gerber RS-274X, Excellon, das für Vektorfotoplotter und mechanische 2D-NC-Maschinen geeignet ist
+  ```
 </details>
 
- <details>
-  <summary>Click to see the examples!</summary>
+<Details>
+  <summary>Klicken Sie hier, um die Beispiele zu sehen!</summary>
  
-   #### *Example 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
+   #### *Beispiel 1:* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/body_assembly#3-machiningfabrication)
   
-   #### *Example 2:* [DIY Dremel CNC design and parts](https://www.thingiverse.com/thing:3004773) and [its CAM file for machining](https://www.estlcam.de/) 
+   #### *Beispiel 2:* [DIY Dremel CNC-Design und -Teile](https://www.thingiverse.com/thing:3004773) und [seine CAM-Datei für die Bearbeitung](https://www.estlcam.de /)
   
-   #### *Example 3:* This table shows an example of the manufacturing sequences.
+   #### *Beispiel 3:* Diese Tabelle zeigt beispielhaft die Fertigungsabläufe.
   
-  ![image of machining sequences](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example%20of%20machining%20sequences.jpg)
+  ![Bild der Bearbeitungssequenzen](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Example% 20%20Bearbeitung%20Sequenzen.jpg)
   
-  #### *Example 4:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D drawing file](https://wiki.satnogs.org/File:C1001.png)
+  #### *Beispiel 4:* [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Specifications), [2D-Zeichnungsdatei](https://wiki.satnogs.org/File:C1001. png)
   
-  #### *Example 5:* Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)
+  #### *Beispiel 5:* Arten von CAD-Formaten von [transmagic](https://transmagic.com/cad-formats/)
    </details>
   
-  #### Template of manufacturing sequences
+  #### Vorlage für Fertigungsabläufe
   
-   *You can use these parameters for each machining operation to complete the manufacturing sequences on the App diagram.*
+   *Sie können diese Parameter für jeden Bearbeitungsvorgang verwenden, um die Fertigungssequenzen im App-Diagramm zu vervollständigen.*
   
-  #### 1. 3D printer parameters 
+  #### 1. 3D-Druckerparameter
 
-   * Extruder setting 
-      * Extrusion multiplier
-      * Retraction distance 
-      * Retraction speed 
-      * Coasting
-   * Layer setting
-      * First layer height
-      * First layer speed
-   * Laver height
-   * Printing bed temperature
-   * Infill setting
-      * Internal/Eternal fill pattern
-   * Temperature setting
-   * Cooling setting
+   * Extrudereinstellung
+      * Extrusionsmultiplikator
+      * Rückzugsabstand
+      * Rückzugsgeschwindigkeit
+      * Ausrollen
+   * Layer-Einstellung
+      * Höhe der ersten Schicht
+      * Geschwindigkeit der ersten Schicht
+   * Beckenhöhe
+   * Druckbetttemperatur
+   * Füllungseinstellung
+      * Internes/Ewiges Füllmuster
+   * Temperatureinstellung
+   * Kühleinstellung
      
-  #### 2. CNC machines parameters such as Lathe, Milling, etc. 
+  #### 2. CNC-Maschinenparameter wie Drehmaschine, Fräsen usw.
   
-   * Cutting parameters
-      * Cutting speed
-      * Feed rate
-      * Cutting depth
-      * Cutting width
-      * Cutting force
-      * Spindle speed
-      * Cutting temperature
-   * Cutting tool
-      * Tool Geometry
-      * Tool setting
-   * Coolant 
+   * Schnittparameter
+      * Schneidgeschwindigkeit
+      * Vorschubgeschwindigkeit
+      * Schnitttiefe
+      * Schnittbreite
+      * Schneidkraft
+      * Spulengeschwindigkeit
+      * Schnitttemperatur
+   * Schneidewerkzeug
+      * Werkzeuggeometrie
+      * Werkzeugeinstellung
+   * Kühlmittel
       
- #### 3. Burning machining parameters such as laser cutting 
+ #### 3. Brennende Bearbeitungsparameter wie Laserschneiden
   
-   * Beam parameters
-      * Wavelength
-      * Power and intensity 
-      * Polarization
-   * Process Parameters
-      * Focusing of laser beams (the focal length of the lens)
-      * Focal position
-      * Angle of incidence
-      * Cutting speed
-      * Gas pressure
-      * Stand-off distance
-      * Expected duration
+   * Strahlparameter
+      * Wellenlänge
+      * Kraft und Intensität
+      * Polarisierung
+   * Prozessparameter
+      * Fokussierung von Laserstrahlen (die Brennweite der Linse)
+      * Schwerpunktlage
+      * Einfallswinkel
+      * Schneidgeschwindigkeit
+      * Gasdruck
+      * Abstandsabstand
+      * Erwartete Dauer
 
-  #### 4. Bonding technologies parameters such as Arc welding
+  #### 4. Parameter der Verbindungstechnologien wie Lichtbogenschweißen
     
-   * Welding current
-   * Welding voltage
-   * Arc travel speed
-   * Torch angle
-      * Longitudinal
-      * Transverse
-   * Electrode force
-   * Electrode diameters
-   * Length of arc
+   * Schweißstrom
+   * Schweißspannung
+   * Bogenfahrgeschwindigkeit
+   * Brennerwinkel
+      * Längs
+      * Quer
+   * Elektrodenkraft
+   * Elektrodendurchmesser
+   * Bogenlänge
    
-![image of manufacturing sequence](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequences%201.jpg)
+![Bild der Fertigungssequenz](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20sequenzen%201.jpg)
 
- <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">Edit in diagrams.net</a>
- 
- 
-
+ <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FMachining%20parameters.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fmachnining%20paramters.png">In diagrams.net bearbeiten</a>
