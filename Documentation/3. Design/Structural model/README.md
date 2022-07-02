@@ -1,34 +1,33 @@
-# **Structural model**
+# **Strukturmodell**
 
-*I would like to enable makers to understand the physical structure of the product and its components.* 
+*Ich möchte Herstellern ermöglichen, die physische Struktur des Produkts und seiner Komponenten zu verstehen.*
 
-## **What is a structural model?**
-<details>
-  <summary>Click to expand!</summary>
+## **Was ist ein Strukturmodell?**
+<Details>
+  <summary>Zum Erweitern klicken!</summary>
   
-* A structure is a description of the components (the combination of parts) of a product and their relationships.
-* An opportunity to specify the geometric elements, dimensions, topology, and other physical properties of the product.
-* The structures are the potential solutions (concepts) as the result of the conceptual design phase.
-* The structural model comprises the set of mechanics theories that obey physical laws required to study and predict the behavior of structures.
+* Eine Struktur ist eine Beschreibung der Komponenten (der Kombination von Teilen) eines Produkts und ihrer Beziehungen.
+* Eine Gelegenheit, die geometrischen Elemente, Abmessungen, Topologie und andere physikalische Eigenschaften des Produkts anzugeben.
+* Die Strukturen sind die möglichen Lösungen (Konzepte) als Ergebnis der Konzeptionsphase.
+* Das Strukturmodell umfasst den Satz mechanischer Theorien, die physikalischen Gesetzen gehorchen, die erforderlich sind, um das Verhalten von Strukturen zu untersuchen und vorherzusagen.
 </details>
 
-## **Why should you define structural model?**
-<details>
-  <summary>Click to expand!</summary>
+## **Warum sollten Sie Strukturmodelle definieren?**
+<Details>
+  <summary>Zum Erweitern klicken!</summary>
   
-* A structural model helps to describe the geometric elements (design feature, dimensions, constraints, etc.), topology (assembly constraint between components, tolerances, components mating conditions, etc.), and characteristics of the product.
-* A structural model helps to decide the physical form of the product and its components to ensure that the structure is fit for its intended purpose. 
-* Structural model provides users with a physical model of the product, components, and characteristics of the material at the design phase that enable the stakeholder to understand the geometry, material reaction to external factors, etc.
-* The structural model ensures that the structures are safe and fulfill the functions for which they were built.
+* Ein Strukturmodell hilft bei der Beschreibung der geometrischen Elemente (Designmerkmale, Abmessungen, Einschränkungen usw.), der Topologie (Montagebeschränkungen zwischen Komponenten, Toleranzen, Passbedingungen der Komponenten usw.) und der Eigenschaften des Produkts.
+* Ein Strukturmodell hilft bei der Entscheidung über die physische Form des Produkts und seiner Komponenten, um sicherzustellen, dass die Struktur für den beabsichtigten Zweck geeignet ist.
+* Das Strukturmodell bietet Benutzern ein physisches Modell des Produkts, der Komponenten und der Eigenschaften des Materials in der Designphase, das es dem Stakeholder ermöglicht, die Geometrie, die Reaktion des Materials auf externe Faktoren usw. zu verstehen.
+* Das Strukturmodell stellt sicher, dass die Strukturen sicher sind und die Funktionen erfüllen, für die sie gebaut wurden.
 </details>
 
-## **How to document a structural model?**
+## **Wie dokumentiert man ein Strukturmodell?**
 
-*Documentation of the structural model can be done in different sections for each project including*
+*Dokumentation des Strukturmodells kann in verschiedenen Abschnitten für jedes Projekt erfolgen, einschließlich*
 
-* [Mechanics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Mechanics)
+* [Mechanik](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20Modell/Mechanik)
 
-* [Electronics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Electronics)
+* [Elektronik](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20Modell/Elektronik)
 
-* [Software](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20model/Software)
-
+* [Software](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/3.%20Design/Structural%20Modell/Software)
