@@ -66,7 +66,7 @@ Wie visualisiert man den Entsorgungsprozess?
 
  *Sie können diese Vorlage im App-Diagramm verwenden, um die Einweg- und Mehrwegkomponenten oder -produkte nach Materialart zu unterscheiden.*
  
- ![Bild Unterscheidung von Einweg- und Mehrwegkomponenten oder -produkten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main /Quellen/Bilder/Entsorgung.jpg)
+ ![Bild Unterscheidung von Einweg- und Mehrwegkomponenten oder -produkten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/Disposal.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisposal.png">In diagrams.net bearbeiten</a>
  
@@ -74,7 +74,7 @@ Wie visualisiert man den Entsorgungsprozess?
  
   *Sie können diese Vorlage im App-Diagramm verwenden, um das Lebensende zu beschreiben.*
  
- ![Bild des Lebensendes von Komponenten und Produkten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources /Images/End%20of%20life%20of%20product%20and%20components%20.jpg)
+ ![Bild des Lebensendes von Komponenten und Produkten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/End%20of%20life%20of%20product%20and%20components%20.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnd%20of%20life%20of%20product%20and%20components%20.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2F%20End%20of%20life%20of%20product%20and%20components%20.png">In diagrams.net bearbeiten </a>
 
@@ -82,7 +82,7 @@ Wie visualisiert man den Entsorgungsprozess?
  
    *Sie können diese Vorlage im App-Diagramm verwenden, um die Demontage-Spezies zu beschreiben, um die Komponenten eines Produkts nach dem Ende ihrer Lebensdauer zu recyceln/entsorgen.*
  
- ![Bild der Demontage der Komponenten eines Produkts zum Recycling/zur Entsorgung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/ main/Sources/Images/Disassembly%20for%20recycling%20or%20disposing%20.jpg)
+ ![Bild der Demontage der Komponenten eines Produkts zum Recycling/zur Entsorgung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Disassembly%20for%20recycling%20or%20disposing%20.jpg)
  
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassemble%20for%20recycling%20or%20disposing.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDisassembly%20for%20recycling%20or%20disposing%20.drawio.png">In diagrams.net bearbeiten</a>
  ...
@@ -91,6 +91,6 @@ Wie visualisiert man den Entsorgungsprozess?
   
    *Sie können diese Vorlage auf dem App-Diagramm verwenden, um die Umweltauswirkungen zu beschreiben.*
  
- ![Bild der Umweltprüfung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental% 20impact.jpg)
+ ![Bild der Umweltprüfung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Environmental%20impact.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20impact.drawio.png">In diagrams.net bearbeiten</a>
