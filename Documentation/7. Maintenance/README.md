@@ -58,7 +58,7 @@ Wie visualisiert man den Wartungsprozess?
  
    *Sie können diese Vorlage im App-Diagramm verwenden, um die allgemeine Wartung zu erklären.*
  
-![Bild der allgemeinen Wartung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General%20Wartung%201.jpg)
+![Bild der allgemeinen Wartung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/General%20maintenance%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.png">In diagrams.net bearbeiten</a>
  
