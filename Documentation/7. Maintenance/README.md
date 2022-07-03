@@ -58,7 +58,7 @@ Wie visualisiert man den Wartungsprozess?
  
    *Sie können diese Vorlage im App-Diagramm verwenden, um die allgemeine Wartung zu erklären.*
  
-![Bild der allgemeinen Wartung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General% 20Wartung%201.jpg)
+![Bild der allgemeinen Wartung](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/General%20Wartung%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FGeneral%20maintenance.png">In diagrams.net bearbeiten</a>
  
@@ -66,7 +66,7 @@ Wie visualisiert man den Wartungsprozess?
  
  *Sie können diese Vorlage im App-Diagramm verwenden, um die defekten Komponenten zu identifizieren.*
  
-![Bild defekter Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Identifying% 20die%20defekten%20Komponenten.jpg)
+![Bild defekter Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Identifying%20die%20defekten%20Komponenten.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FIdentifying%20the%20defective%20components.png">In diagrams.net bearbeiten</a>
  
@@ -74,7 +74,7 @@ Wie visualisiert man den Wartungsprozess?
 
  *Sie können diese Vorlage im App-Diagramm verwenden, um den Reparaturprozess defekter Komponenten zu beschreiben.*
  
-![Bild der Reparatur der defekten Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Reparieren%20der%20defekten%20Komponenten%201.jpg)
+![Bild der Reparatur der defekten Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Reparieren%20der%20defekten%20Komponenten%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRepairing%20the%20defective%20components.drawio.png">In diagrams.net bearbeiten</a>
  
@@ -82,6 +82,6 @@ Wie visualisiert man den Wartungsprozess?
 
   *Sie können diese Vorlage im App-Diagramm verwenden, um das Austauschverfahren von Komponenten zu beschreiben.*
  
-![Bild des Austauschs von Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing% 20die%20Teile%20oder%20Komponenten.jpg)
+![Bild des Austauschs von Komponenten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Replacing%20die%20Teile%20oder%20Komponenten.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplaceing%20the%20parts%20or%20components.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FReplaceing%20the%20parts%20or%20components.drawio.png">In diagrams.net bearbeiten</a>
