@@ -94,7 +94,7 @@ Wie kann der Prozess der Benutzerführung visualisiert werden?
 
  *Sie können diese Vorlage im App-Diagramm verwenden, um das Umweltmanagement des Produkts zu erläutern.*
  
-![Bild des Umweltmanagements](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental% 20management.png)
+![Bild des Umweltmanagements](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Envronmental%20management.png)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">In diagrams.net bearbeiten</a>
  
