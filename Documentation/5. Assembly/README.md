@@ -82,7 +82,7 @@ Wie visualisiert man den Montage- oder Demontageprozess?
  
  *Sie können diese Vorlage im App-Diagramm verwenden, um die erforderlichen Fähigkeiten für die Montage zu definieren.*
  
-![Bild der erforderlichen Fähigkeiten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required% 20 Fähigkeiten.jpg)
+![Bild der erforderlichen Fähigkeiten](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Required%20Fähigkeiten.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FRequired%20skills.png">In diagrams.net bearbeiten</a>
 
@@ -92,26 +92,26 @@ Wie visualisiert man den Montage- oder Demontageprozess?
    * Optional
      * ...
  #### 3. Montagesequenzen
-   * Teileliste (siehe [Bill of Material (BOM)](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main /Documentation/4.%20Manufacturing#1-Bill-of-Material-Bom))
+   * Teileliste (siehe [Bill of Material (BOM)](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Documentation/4.%20Manufacturing#1-Bill-of-Material-Bom))
    * Datenblatt
   
    *Sie können diese Vorlage im App-Diagramm verwenden, um die Teileliste zu definieren.*
  
-![Bild der Teileliste](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list .jpg)
+![Bild der Teileliste](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Part%20list.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FPart%20list%20or%20data%20sheet.png">In diagrams.net bearbeiten</a>
  
    *Sie können diese Vorlage im App-Diagramm verwenden, um das Datenblatt zu definieren.*
  
-![Bild des Datenblatts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet .jpg)
+![Bild des Datenblatts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Data%20sheet.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FData%20sheet.png">In diagrams.net bearbeiten</a>
  
-  * Beschreiben der Bearbeitung/Herstellung von Teilen, falls erforderlich (siehe [Manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main /Dokumentation/4.%20Fertigung/Hergestelltes%20Werkstück#2-Fertigungsanleitung-sollte-enthalten))
+  * Beschreiben der Bearbeitung/Herstellung von Teilen, falls erforderlich (siehe [Manufacturing](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Dokumentation/4.%20Fertigung/Hergestelltes%20Werkstück#2-Fertigungsanleitung-sollte-enthalten))
   
  *Sie können diese Vorlage im App-Diagramm verwenden, um die Komponenten und den Prozess der Bearbeitung/Fertigung zu demonstrieren.*
  
-![Bild der Bearbeitung/Fabrikation](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing %20die%20Bearbeitung_%20Fertigung%201.jpg)
+![Bild der Bearbeitung/Fabrikation](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Describing%20die%20Bearbeitung_%20Fertigung%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2F%20fabrication.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescribing%20the%20machining%2Ffabrication.png">In diagrams.net bearbeiten</a>
    
@@ -121,6 +121,6 @@ Wie visualisiert man den Montage- oder Demontageprozess?
      
    *Sie können diese Vorlage im App-Diagramm verwenden, um die Schritte für den Zusammenbau der Teile zu erklären.*
  
-![Bild der zusammenzubauenden Schritte](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps %20bis%20montieren%20die%20Teile%201.jpg)
+![Bild der zusammenzubauenden Schritte](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Steps%20bis%20montieren%20die%20Teile%201.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FSteps%20to%20assemble%20the%20parts.png">In diagrams.net bearbeiten</a>
