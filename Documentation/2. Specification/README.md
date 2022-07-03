@@ -38,7 +38,7 @@
 #### *Projekt der [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
 *Das Bild unten zeigt die Stakeholder von ADD-ONS von XYZ Cargo als Grafik*
 
-  ![Bild des Stakeholders von ADD-ONS von XYZ Cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/ Quellen/Bilder/Stakeholder%20of%20XYZ%20cargo%20ADD-ONS.jpg)
+  ![Bild des Stakeholders von ADD-ONS von XYZ Cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Quellen/Bilder/Stakeholder%20of%20XYZ%20cargo%20ADD-ONS.jpg)
   
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">In diagrams.net bearbeiten</a>
 </details>
@@ -48,7 +48,7 @@
    * Stakeholder-Name 1
    * ...
 
-  ![Bild der Vorlage des Stakeholder-Diagramms](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Stakeholder%20Diagramm%20für%20Vorlage.jpg)
+  ![Bild der Vorlage des Stakeholder-Diagramms](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20Diagramm%20für%20Vorlage.jpg)
             
   *Der folgende Link kann verwendet werden, um die Stakeholder Ihres Projekts/Produkts zu definieren.*
   
@@ -87,7 +87,7 @@ Beispiel XYZ Cargo ADD-ONS
 
 *Das Bild unten zeigt die externen Schnittstellen von ADD-ONS von XYZ Cargo als Graph*
 
-![Bild der externen Schnittstellen von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/ Quellen/Bilder/Externe%20Schnittstellen%20von%20XYZ%20Cargo%20ADD-ONS.jpg)
+![Bild der externen Schnittstellen von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Quellen/Bilder/Externe%20Schnittstellen%20von%20XYZ%20Cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">In diagrams.net bearbeiten</a>
 </details>
@@ -98,7 +98,7 @@ Beispiel XYZ Cargo ADD-ONS
        * Fluss 1
        * ...
  
- ![Bild des Stakeholder-Diagramms für Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/ Externe%20Schnittstellen%20für%20Vorlage.jpg)
+ ![Bild des Stakeholder-Diagramms für Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Externe%20Schnittstellen%20für%20Vorlage.jpg)
   
    *Über den unten stehenden Link können Sie die externen Schnittstellen Ihres Projekts/Produkts definieren.*
    
