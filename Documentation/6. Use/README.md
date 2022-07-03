@@ -70,7 +70,7 @@ Wie kann der Prozess der Benutzerführung visualisiert werden?
  
    *Sie können diese Vorlage im App-Diagramm verwenden, um das Gerät des Produkts zu beschreiben.*
  
-![Bild der Verwendung des Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use %20das%20Produkt%20und%20Gerät.jpg)
+![Bild der Verwendung des Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Use%20das%20Produkt%20und%20Gerät.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fuse%20the%20product%20and%20device.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fuse%20the%20product%20and%20device.png">In diagrams.net bearbeiten</a>
      
@@ -78,7 +78,7 @@ Wie kann der Prozess der Benutzerführung visualisiert werden?
  
   *Sie können diese Vorlage auf dem App-Diagramm verwenden, um die Verwendung des Produkts zu erklären.*
  
-![Bild der Verwendung des Produkts und seines Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/ Bilder/Beschreibung%20of%20the%20device%20of%20the%20product.jpg)
+![Bild der Verwendung des Produkts und seines Geräts](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Bilder/Beschreibung%20of%20the%20device%20of%20the%20product.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FDescription%20of%20the%20device%20of%20the%20product.png">In diagrams.net bearbeiten</a>
 
@@ -98,5 +98,5 @@ Wie kann der Prozess der Benutzerführung visualisiert werden?
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvironmental%20management.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FEnvronmental%20management.png">In diagrams.net bearbeiten</a>
  
-#### 5. Reparaturinformationen (siehe [maintenance](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main /Dokumentation/7.%20Wartung))
+#### 5. Reparaturinformationen (siehe [maintenance](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Dokumentation/7.%20Wartung))
  * ...
