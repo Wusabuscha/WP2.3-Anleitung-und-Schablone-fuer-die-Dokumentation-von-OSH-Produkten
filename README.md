@@ -23,7 +23,7 @@ Produktlebenszyklusphasen bestehen aus:
 
 ## Erste Schritte mit Ihrer Dokumentation
 
-Um mit Ihrer Dokumentation zu beginnen, können Sie [diese Vorlage verwenden](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main /Dokumentation)
+Um mit Ihrer Dokumentation zu beginnen, können Sie [diese Vorlage verwenden](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/tree/main/Dokumentation)
 
 Um auf diese Richtlinie zu verweisen, können Sie dann der Richtlinie folgen und dann die Vorlage in jedem Abschnitt in der Readme-Datei Ihres eigenen Projekts ausfüllen.
 
@@ -36,7 +36,7 @@ Um den Link des App-Diagramms in der Vorlage zu verwenden, können Sie diesen Sc
  
 ![Bild](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
 
-- Nach dem Ändern können Sie die Änderungen speichern. Um die Änderungen auf Appdiarams zu speichern, können Sie dieser [Benutzeranleitung] (https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob /main/Sources/Userguide%20of%20modification%20of%20templates%20in%20App diagram%20for%20documentation%20of%20OSH%20design%20reuse.pdf)
+- Nach dem Ändern können Sie die Änderungen speichern. Um die Änderungen auf Appdiarams zu speichern, können Sie dieser [Benutzeranleitung] (https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Userguide%20of%20modification%20of%20templates%20in%20App diagram%20for%20documentation%20of%20OSH%20design%20reuse.pdf)
 - Schließlich ist es möglich, die Datei in verschiedenen Formen (PNG, JPEG, PDF, HTML, URL, ...) zu exportieren und in die Readme zu importieren.
 
 ![Bild](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
@@ -68,4 +68,4 @@ Dieses Werk ist lizenziert unter a
 
 Das europäische Forschungs- und Innovationsprojekt [OPEN!NEXT](https://opennext.eu/) wird durch das [EU-Programm Horizon 2020](https://ec.europa.eu/easme/en/section/horizon- 2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20dressing%20societal%20herausforderungen.) unter der Fördernummer 869984
 
-![Bild der Europäischen Kommission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European% 20commossion.png). ![Bild von Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open %20Weiter%20logo.png)
+![Bild der Europäischen Kommission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Bild von Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20Weiter%20logo.png)
