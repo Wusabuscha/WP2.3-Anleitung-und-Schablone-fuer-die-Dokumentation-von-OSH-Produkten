@@ -56,7 +56,7 @@ Was sollte die Stückliste enthalten (nicht beschränkt auf ...)?
  
  *Sie können diese Vorlage im App-Diagramm verwenden, um die Stückliste Ihres Projekts/Produkts zu definieren.*
 
-![Bild der Stückliste](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template -2.jpg)
+![Bild der Stückliste](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/BOM%20template-2.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template.drawio" target="_blank">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FBOM%20template%20of%20manufactured%20workpiece.png">In diagrams.net bearbeiten</a>
  
@@ -112,7 +112,7 @@ Was sollte die Stückliste enthalten (nicht beschränkt auf ...)?
    
 *Sie können diese Vorlage im App-Diagramm verwenden, um Fertigungswerkzeuge zu definieren.*
  
-![Bild der Fertigungswerkzeuge](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing% 20Werkzeuge.jpg)
+![Bild der Fertigungswerkzeuge](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Manufacturing%20Werkzeuge.jpg)
 
  <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FManufacturing%20technology.png">In diagrams.net bearbeiten</a>
 
