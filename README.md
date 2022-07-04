@@ -36,7 +36,7 @@ Um den Link des App-Diagramms in der Vorlage zu verwenden, können Sie diesen Sc
  
 ![Bild](https://user-images.githubusercontent.com/59058909/132663234-720fc3a1-381e-4a00-97ea-844a1212fa43.png)
 
-- Nach dem Ändern können Sie die Änderungen speichern. Um die Änderungen auf Appdiarams zu speichern, können Sie dieser [Benutzeranleitung] (https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Userguide%20of%20modification%20of%20templates%20in%20Appdiagram%20for%20documentation%20of%20OSH%20design%20reuse.pdf)
+- Nach dem Ändern können Sie die Änderungen speichern. Um die Änderungen auf Appdiarams zu speichern, können Sie dieser [Benutzeranleitung] (https://github.com/OPEN-NEXT/WP2.3-Guideline-and-template-for-documentation-of-OSH-design-reuse/blob/main/Sources/Userguide%20of%20modification%20of%20templates%20in%20Appdiagram%20for%20documetation%20of%20OSH%20design%20reuse.pdf)
 - Schließlich ist es möglich, die Datei in verschiedenen Formen (PNG, JPEG, PDF, HTML, URL, ...) zu exportieren und in die Readme zu importieren.
 
 ![Bild](https://user-images.githubusercontent.com/59058909/132664321-95a2b5d0-ae50-44d7-9133-b4c92d3a30cc.png)
