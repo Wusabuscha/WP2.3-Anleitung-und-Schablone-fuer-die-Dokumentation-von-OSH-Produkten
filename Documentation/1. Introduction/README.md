@@ -1,6 +1,6 @@
 # Einführung
 
-*Die Einführung in die Dokumentation zielt darauf ab, mehr Details über das Projektziel und den Kontext bereitzustellen. Diese Einführung soll es dem Leser ermöglichen, zunächst die Motivation des Projekts zu verstehen und auch, wer an seiner Entstehung beteiligt ist oder war. Da diese Dokumentationsstruktur darauf abzielt, die Wiederverwendung der technischen Inhalte des Projekts zu fördern, ist es wichtig, den Kontext gut zu verstehen.*
+*Die Einführung in die Dokumentation zielt darauf ab, mehr Details über das Projektziel und den Kontext bereitzustellen. Diese Einführung soll es Lesenden ermöglichen, zunächst die Motivation des Projekts zu verstehen und auch, wer an seiner Entstehung beteiligt ist oder war. Da diese Dokumentationsstruktur darauf abzielt, die Wiederverwendung der technischen Inhalte des Projekts zu fördern, ist es wichtig, den Kontext gut zu verstehen.*
 
 <Details>
   <summary>Klicken Sie hier, um die Richtlinie und Beispiele anzuzeigen!</summary>
