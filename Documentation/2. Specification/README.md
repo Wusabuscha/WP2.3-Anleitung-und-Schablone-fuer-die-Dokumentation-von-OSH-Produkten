@@ -48,7 +48,7 @@
    * Stakeholder-Name 1
    * ...
 
-  ![Bild der Vorlage des Stakeholder-Diagramms](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20Diagramm%20für%20Vorlage.jpg)
+  ![Bild der Vorlage des Stakeholder-Diagramms](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
             
   *Der folgende Link kann verwendet werden, um die Stakeholder Ihres Projekts/Produkts zu definieren.*
   
