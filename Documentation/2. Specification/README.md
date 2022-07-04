@@ -98,7 +98,7 @@ Beispiel XYZ Cargo ADD-ONS
        * Fluss 1
        * ...
  
- ![Bild des Stakeholder-Diagramms für Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Externe%20Schnittstellen%20für%20Vorlage.jpg)
+ ![Bild des Stakeholder-Diagramms für Vorlage](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/External%20interfaces%20for%20template.jpg)
   
    *Über den unten stehenden Link können Sie die externen Schnittstellen Ihres Projekts/Produkts definieren.*
    
