@@ -87,7 +87,7 @@ Beispiel XYZ Cargo ADD-ONS
 
 *Das Bild unten zeigt die externen Schnittstellen von ADD-ONS von XYZ Cargo als Graph*
 
-![Bild der externen Schnittstellen von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Quellen/Bilder/Externe%20Schnittstellen%20von%20XYZ%20Cargo%20ADD-ONS.jpg)
+![Bild der externen Schnittstellen von XYZ Cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/External%20interfaces%20for%20template.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Als neu bearbeiten</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">In diagrams.net bearbeiten</a>
 </details>
