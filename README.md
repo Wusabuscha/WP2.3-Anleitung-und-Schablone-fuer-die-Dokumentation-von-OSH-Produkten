@@ -68,4 +68,4 @@ Dieses Werk ist lizenziert unter a
 
 Das europäische Forschungs- und Innovationsprojekt [OPEN!NEXT](https://opennext.eu/) wird durch das [EU-Programm Horizon 2020](https://ec.europa.eu/easme/en/section/horizon-2020-energy-efficiency/h2020-programme#:~:text=Horizon%202020%20is%20the%20EU's,leadership%20and%20dressing%20societal%20herausforderungen.) unter der Fördernummer 869984
 
-![Bild der Europäischen Kommission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Bild von Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Open%20next%20logo.png)
+![Bild der Europäischen Kommission](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/European%20commossion.png). ![Bild von Open Next Project](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/raw/main/Sources/Images/Open%20Next%20logo.png)
